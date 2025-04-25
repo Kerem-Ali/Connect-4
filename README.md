@@ -18,7 +18,7 @@
 
 ## 📋 How to Play
 <div align="center">
-  <img src="images/gameplay.png" width="300" alt="Gameplay Screen">
+  <img src="images/startscreen.png" width="300" alt="Gameplay Screen">
 </div>
 
 ### Rules:
@@ -75,7 +75,7 @@ python main.py
 
 ## 🏠 User Interface
 <div align="center">
-  <img src="images/start_screen.png" width="250" alt="Start Screen">
+  <img src="images/gamescreen.png" width="250" alt="Start Screen">
 </div>
 
 The game features an intuitive user interface with:
